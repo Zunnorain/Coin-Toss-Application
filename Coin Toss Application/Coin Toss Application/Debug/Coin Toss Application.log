@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  Result.cpp
+  Result2.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Coin Toss Application.vcxproj -> H:\C++ Projects\Coin Toss Application\Debug\Coin Toss Application.exe
